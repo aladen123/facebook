@@ -71,7 +71,7 @@ textarea {
   color: #ffffff;
   font-size: 0.8888rem;
   outline: none;
-  width: 300px;
+  width: 100%;
 }
 
 input::placeholder,
