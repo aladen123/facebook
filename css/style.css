@@ -1,18 +1,10 @@
-/* file map 
-1.defaul css
-2.nav 
-3. main > 3.1 sidenav
-3. main > 3.2 posts
-3. main > 3.3 stories
-4.chats and contacts 
-*/
+
 
 /********************************************/
 /********************************************/
 /* 
-omaryassir124@gmail.com
 
-Have Fun :) 
+
 
 */
 /********************************************/
@@ -411,6 +403,10 @@ nav .second .dots span {
 
 .main .bigArea .parent .timeline .actions p i {
   padding-right: 8px;
+}
+.main .bigArea .parent .timeline .actions p:hover,
+.main .bigArea .parent .timeline .actions p i:hover{
+  color: #0247FE;
 }
 
 .main .bigArea .parent .timeline .actions p.none {
